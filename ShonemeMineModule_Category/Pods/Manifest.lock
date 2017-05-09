@@ -1,0 +1,12 @@
+PODS:
+  - XMCTMediator (1.0.2)
+
+DEPENDENCIES:
+  - XMCTMediator
+
+SPEC CHECKSUMS:
+  XMCTMediator: 2a99c6b1ad6e6cbe2be8d11aa3530978bb29dc6b
+
+PODFILE CHECKSUM: fd61d1b64ead27512cad7f21b9f3a140a3c678ce
+
+COCOAPODS: 1.2.1

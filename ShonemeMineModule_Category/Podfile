@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+
+target 'ShonemeMineModule_Category' do
+
+pod 'XMCTMediator'
+
+end
